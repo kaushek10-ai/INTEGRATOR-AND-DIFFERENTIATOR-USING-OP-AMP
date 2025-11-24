@@ -74,7 +74,7 @@ Thus an Integrator and Differentiator using op-amp are designed and their perfor
 ![WhatsApp Image 2025-11-23 at 19 34 54_ca9b8924](https://github.com/user-attachments/assets/0f8f22d2-aa63-4eb5-9bdd-b7c8f4d7f0e2)
 
 # DIFFERENTIATOR GRAPH
-![WhatsApp Image 2025-11-23 at 19 35 27_6bbda190](https://github.com/user-attachments/assets/c36693ef-cf6b-4b22-a16b-2d440bcace73)
+![WhatsApp Image 2025-11-23 at 19 35 58_9f0e061d](https://github.com/user-attachments/assets/38fbbca6-bbb9-4c02-a33d-aac9132608c4)
 
 
 # RESULT:
